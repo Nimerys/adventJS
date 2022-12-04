@@ -36,3 +36,13 @@ function fitsInOneBox(boxes){
   }
   return true
 }
+
+/*Tercera solucion*/
+function fitsInOneBox(boxes){
+  return boxes.sort((a,b) => (a.l > b.l && a.w > b.w && a.h > b.h ? 1 : a.l < b.l && a.w < b.w && a.h < b.h ? -1 : 0)).every((currentBox, i) => {
+      if (i === 0) return true;
+      const previousBox = boxes[i-1];
+    
+      return previousBox.l < currentBox.l && previousBox.w < currentBox.w && previousBox.h < currentBox.h;
+  });
+}
