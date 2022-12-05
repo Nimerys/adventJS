@@ -1,7 +1,10 @@
 # Advent JS
 Resolucion a los retos de [Advent JS](https://adventjs.dev/)
 
-![Advent JS 2022](https://i.imgur.com/HUihoze.jpg)
-
 # RETOS
-![Advent JS 2022](https://adventjs.dev/challenges-2022/1.svg | width=100px)
+<div class="grid grid-cols-1 gap-4 pt-10 sm:grid-cols-2 xl:grid-cols-4">
+<img src="https://adventjs.dev/challenges-2022/1.svg" width=20% height=20% />
+<img src="https://adventjs.dev/challenges-2022/2.svg" width=20% height=20%/>
+<img src="https://adventjs.dev/challenges-2022/3.svg" width=20% height=20%/>
+<img src="https://adventjs.dev/challenges-2022/4.svg" width=20% height=20%/>
+</div>
