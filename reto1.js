@@ -10,10 +10,8 @@ console.log(wrapped)
 
 function wrapping(gifts) {
   return gifts.map((gift) => {
-    wordLength = gift.length;
-
-    gift = '*'.repeat(wordLength+ 2) + '\n' + '*' + gift
-    gift = gift + '*' + '\n' + '*'.repeat(wordLength + 2)
+   let wordLength = gift.length;
+    gift = '*'.repeat(wordLength+ 2) + '\n' + '*' + gift + '*' + '\n' + '*'.repeat(wordLength + 2)
     return gift
   })
 }
