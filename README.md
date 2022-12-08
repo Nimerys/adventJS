@@ -19,7 +19,7 @@ Resolucion a los retos de [Advent JS](https://adventjs.dev/)
 | 05  |            Optimizando viajes de Santa            |       🔴       | [Show](https://adventjs.dev/challenges/2022/5) |
 | 06  |             Creando adornos navideños             |       🟡       | [Show](https://adventjs.dev/challenges/2022/6) |
 | 07  |           Haciendo inventario de regalos          |       🟢       | [Show](https://adventjs.dev/challenges/2022/7) |
-| 08  |                                                   |       ⚪       | [Show](https://adventjs.dev/challenges/2022/8) |
+| 08  |              Necesitamos un mecanico              |       🟡       | [Show](https://adventjs.dev/challenges/2022/8) |
 | 09  |                                                   |       ⚪       | [Show](https://adventjs.dev/challenges/2022/9) |
 | 10  |                                                   |       ⚪       | [Show](https://adventjs.dev/challenges/2022/10) |
 | 11  |                                                   |       ⚪       | [Show](https://adventjs.dev/challenges/2022/11) |
