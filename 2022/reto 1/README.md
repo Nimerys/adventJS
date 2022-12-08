@@ -1,4 +1,4 @@
-# Reto 1 🟢
+# Reto 1 
 
 Este año los elfos han comprado una máquina que envuelve regalos. Pero… ¡no viene programada! Necesitamos crear un algoritmo que le ayude en la tarea.
 

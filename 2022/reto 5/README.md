@@ -1,4 +1,4 @@
-# Reto 5 🔴
+# Reto 5 | No resuelto
 
 Para no cansar a los renos, Papá Noel quiere dejar el máximo número de regalos haciendo el menor número posible de viajes.
 

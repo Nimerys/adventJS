@@ -1,4 +1,4 @@
-# Reto 7 🟢
+# Reto 7 
 
 En los almacenes de Papá Noel están haciendo inventario. Hay tres almacenes (que se representa cada uno como un Array). En cada almacén hay regalos.
 
