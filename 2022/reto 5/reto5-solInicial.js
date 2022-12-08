@@ -1,3 +1,5 @@
+// Aun que da la solicion correcta, el procesamiento es muy lento y da timeout
+
 function getMaxGifts(giftsCities, maxGifts, maxCities) {
     let result;
     if (giftsCities.length<=1){

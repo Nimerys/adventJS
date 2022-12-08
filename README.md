@@ -1,5 +1,6 @@
 # 🦌🎄 | Advent JS
 Resolucion a los retos de [Advent JS](https://adventjs.dev/)
+<img src="https://pbs.twimg.com/media/FjOA9WRXgAIchM5.jpg"/>
 
 ## 🕹️ 2022
 
