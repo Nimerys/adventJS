@@ -1,4 +1,7 @@
-# Advent JS
+# 🦌🎄 | Advent JS
 Resolucion a los retos de [Advent JS](https://adventjs.dev/)
 
-**Difficulty**: 🟢 Easy 🟠 Normal 🔴 Hard 🟣 Very Hard 
+## 🕹 | Retos
+
+
+[^1]: **Difficulty**: 🟢 Easy 🟠 Normal 🔴 Hard 🟣 Very Hard 
