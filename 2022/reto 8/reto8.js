@@ -13,3 +13,18 @@ function checkPart(part) {
   })
   return combinations.some(n=> [...n].reverse().join('') === n.join(''))
 }
+
+
+// function checkPart(part) {
+//     let partA = part.split("");
+//     for (let i in partA){
+//       let strA = partA.slice();
+//       strA.splice(i, 1);
+//       let rtsA = strA.slice();
+//       rtsA.reverse();
+//       if(strA.join("") === rtsA.join("")){
+//         return true;
+//       }
+//     }
+//     return false;
+//   }
