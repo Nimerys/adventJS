@@ -27,5 +27,5 @@ Va de abajo a arriba, de arriba a abajo y luego sube otra vez.
 ```
 Necesitamos que el programa devuelva un `boolean` que indique si el trineo hace una parábola o no.
 **A tener en cuenta:**
- - ara que el salto sea válido tiene que subir una vez y bajar una vez. Si durante el salto se queda en la misma altura entre dos posiciones, la parábola continua.
- - o hace falta que el punto de inicio y final sean el mismo (las ciudades pueden estar a diferentes alturas).
+ - Para que el salto sea válido tiene que subir una vez y bajar una vez. Si durante el salto se queda en la misma altura entre dos posiciones, la parábola continua.
+ - No hace falta que el punto de inicio y final sean el mismo (las ciudades pueden estar a diferentes alturas).
