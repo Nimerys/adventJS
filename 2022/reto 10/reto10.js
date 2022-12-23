@@ -7,5 +7,5 @@ function checkJump(heights) {
     const down = heights;
     let isUp = up.slice(1).every((element, index) => element >= up[index]);
     let isDown = down.slice(1).every((element, index) => element <= down[index]);
-    return isUp && isDown && up.length != 0 && down.length > 1
+    return isUp && isDown && up.length != 0 && down.length > 1;
 }
