@@ -22,7 +22,7 @@ Resolucion a los retos de [Advent JS](https://adventjs.dev/)
 | 08  |              Necesitamos un mecanico              |       🟡       | [Show](https://adventjs.dev/challenges/2022/8) |
 | 09  |             Las locas luces de Navidad            |       🟢       | [Show](https://adventjs.dev/challenges/2022/9) |
 | 10  |          El salto del trineo de Papa Noel         |       🟡       | [Show](https://adventjs.dev/challenges/2022/10) |
-| 11  |                                                   |       ⚪       | [Show](https://adventjs.dev/challenges/2022/11) |
+| 11  |             Papá Noel es Scrum Master             |       🔴       | [Show](https://adventjs.dev/challenges/2022/11) |
 | 12  |                                                   |       ⚪       | [Show](https://adventjs.dev/challenges/2022/12) |
 | 13  |                                                   |       ⚪       | [Show](https://adventjs.dev/challenges/2022/13) |
 | 14  |                                                   |       ⚪       | [Show](https://adventjs.dev/challenges/2022/14) |
