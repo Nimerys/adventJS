@@ -23,10 +23,10 @@ Resolucion a los retos de [Advent JS](https://adventjs.dev/)
 | 09  |             Las locas luces de Navidad            |       🟢       | [Show](https://adventjs.dev/challenges/2022/9) |
 | 10  |          El salto del trineo de Papa Noel         |       🟡       | [Show](https://adventjs.dev/challenges/2022/10) |
 | 11  |             Papá Noel es Scrum Master             |       🔴       | [Show](https://adventjs.dev/challenges/2022/11) |
-| 12  |                                                   |       ⚪       | [Show](https://adventjs.dev/challenges/2022/12) |
-| 13  |                                                   |       ⚪       | [Show](https://adventjs.dev/challenges/2022/13) |
-| 14  |                                                   |       ⚪       | [Show](https://adventjs.dev/challenges/2022/14) |
-| 15  |                                                   |       ⚪       | [Show](https://adventjs.dev/challenges/2022/15) |
+| 12  |            Trineos eléctricos, ¡guau!             |       🟡       | [Show](https://adventjs.dev/challenges/2022/12) |
+| 13  |                                                   |       🟢       | [Show](https://adventjs.dev/challenges/2022/13) |
+| 14  |                                                   |       🟡       | [Show](https://adventjs.dev/challenges/2022/14) |
+| 15  |                                                   |       🟡       | [Show](https://adventjs.dev/challenges/2022/15) |
 | 16  |                                                   |       ⚪       | [Show](https://adventjs.dev/challenges/2022/16) |
 | 17  |                                                   |       ⚪       | [Show](https://adventjs.dev/challenges/2022/17) |
 | 18  |                                                   |       ⚪       | [Show](https://adventjs.dev/challenges/2022/18) |
